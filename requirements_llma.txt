@@ -1,0 +1,5 @@
+﻿pinecone-client langchain
+pypdf
+sentence-transformers
+replicate
+
